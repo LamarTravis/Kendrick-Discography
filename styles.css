@@ -1,0 +1,65 @@
+ol{
+  color: white;
+  background-color: #37373F;
+  opacity: .7;
+}
+
+img{
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1{
+  max-width:1000px;
+  margin: 0 auto;
+  font-size: 80px;
+  color: black;
+  background-color: #E9B40E;
+}
+
+h2{
+  color: black;
+  opacity: .8;
+  background-color: #E9B40E;
+}
+
+body {
+  background-color: black;
+  max-width: 1000px;
+  margin: 0 auto;
+  text: White;
+}
+
+li{
+  font-size: 24px;
+}
+
+table{
+  color: white;
+}
+
+p{
+  color: white;
+  max-width: 1000px;
+  font-size: 24px;
+}
+
+ul{
+  color: white;
+}
+th,
+td {
+  border: 4px solid #E9B40E;
+  padding: 20px;
+  font-size: 24px;
+  color: white;
+  background-color: #272727;
+}
+
+h3{
+  color: white;
+}
+
+a:visited{
+  color: red;
+}
